@@ -1,7 +1,7 @@
-###About: 
+About: Examen final Desarrollo de Interfaces
 
-Contact: contacto del programador
+Contact: josebsanchez@birt.eus
 
-Licence: licencia con la que distribuyes tu proyecto
+Licence: GPL
 
-References: referencias utilizadas
+References: Documentación Microsoft Visual Studio
